@@ -4,8 +4,7 @@ using namespace std;
 #define MAX(a,b,c) max(a,max(b,c))
 //0xACCE97ED
 
-int main()
-{
+int main() {
 	long long t, n;
 	scanf("%lld", &t);
 	while(t--) {
