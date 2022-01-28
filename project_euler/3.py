@@ -11,5 +11,6 @@ def solve(n):
                 factor = n
             break
     return factor
-
-print(solve(600851475143))
+x = solve(600851475143)
+print(x)
+assert x == 6857
